@@ -13,4 +13,9 @@ Organizers:
 * Bistra Dilkina (University of Southern California)
 * Angelos Georghiou (University of Cyprus)
 
-![Alt text](images/your-image.jpg)
+## Images
+<img src="images/BIRS.jpeg" alt="Banff International Research Station" width="600">
+
+<img src="images/LilyXu.jpeg" alt="Banff International Research Station" width="600">
+
+<img src="images/Pierre-LucBacon.jpeg" alt="Banff International Research Station" width="600">
