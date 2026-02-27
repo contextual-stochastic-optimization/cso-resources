@@ -12,3 +12,5 @@ Organizers:
 * Phebe Vayanos (University of Southern California)
 * Bistra Dilkina (University of Southern California)
 * Angelos Georghiou (University of Cyprus)
+
+![Alt text](images/your-image.jpg)
